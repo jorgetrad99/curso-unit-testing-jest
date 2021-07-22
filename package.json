@@ -1,0 +1,23 @@
+{
+  "name": "curso-unit-testing-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgetrad99/curso-unit-testing-jest.git"
+  },
+  "keywords": [],
+  "author": "Jorge Trad <jetradl@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jorgetrad99/curso-unit-testing-jest/issues"
+  },
+  "homepage": "https://github.com/jorgetrad99/curso-unit-testing-jest#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
