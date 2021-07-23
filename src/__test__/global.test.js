@@ -47,7 +47,7 @@ test('Probar async/await', async () => {
   expect(string).toBe('aloH');
 });
 
-afterEach(() => {
+/* afterEach(() => {
   console.log('Después de cada prueba');
 });
 
@@ -62,3 +62,4 @@ beforeEach(() => {
 beforeAll(() => {
   console.log('Antes de todas las pruebas');
 });
+ */
